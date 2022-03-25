@@ -210,7 +210,7 @@ const App = () => {
   })
 
   return (
-    <div className='min-h-screen gradient-bg-welcome container text-center'>
+    <div className='min-h-screen gradient-bg-welcome text-center'>
       <h2 className='text-3xl sm:text-5xl text-white text-gradient py-1'>
         Bank Contract Project
       </h2>
